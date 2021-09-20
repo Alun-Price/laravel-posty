@@ -1,3 +1,9 @@
+## Laravel Posty Tutorial
+
+Code for a Laravel crash course that covers installation, authentication, routes, data, pagination, email functionality and much more
+
+See https://www.youtube.com/watch?v=MFh0Fd7BsjE&ab_channel=TraversyMedia
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
